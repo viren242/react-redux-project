@@ -1,8 +1,6 @@
-# WHAT IS THIS PROJECT ABOUT?
+# React Redux Project
 
-Implemented "COUNTER" using State Management with "REDUX".
-
-# Redux Project
+This is a 'Counter' application using State Management with 'Redux'.
 
 ## Redux project explanation
 
