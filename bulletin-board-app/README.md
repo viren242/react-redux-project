@@ -1,6 +1,6 @@
 # WHAT IS THIS PROJECT ABOUT?
 
-=> Implemented "" using State Management with "REDUX".
+This is a 'Bulletin Board' app developed using State Management with 'Redux'.
 
 # Getting Started with Create React App
 
